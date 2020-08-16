@@ -35,7 +35,7 @@ body{
 
 .about{
     background-image: url('img/rc.jpg');
-    color: black;
+    color: white;
     font-size: bold;
     background-attachment: fixed;
     /* background-size: cover;  */
@@ -46,6 +46,7 @@ body{
     overflow: hidden;
  
 }
+
 
 hr{
     width: 250px;
