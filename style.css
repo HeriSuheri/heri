@@ -62,7 +62,7 @@ section{
     opacity: 0;
     transform: translate(-50px, 0) rotate(15deg);
     transition: 1s;
-
+    color: #eaeaea;
 }
 
 .pKanan{
